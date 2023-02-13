@@ -1,0 +1,85 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px solid #ff0000;
+}
+
+.a{
+    width: 100%;
+    height: 50px;
+    background-color: #ff0000;
+}
+
+.b{
+    width: 50%;
+    height: 100px;
+    background-color: #ffff00;
+    float: left;
+}
+
+.c{
+    width: 50%;
+    height: 100px;
+    background-color: #00ff00;
+    float: right;
+}
+
+.d{
+    width: 33%;
+    height: 100px;
+    background-color: #0000ff;
+    float: left;
+}
+
+.e{
+    width: 33%;
+    height: 100px;
+    background-color: #ff00ff;
+    float: left;
+}
+
+.f{
+    width: 33%;
+    height: 100px;
+    background-color: #000000;
+    float: left;
+}
+
+.g{
+    width: 25%;
+    height: 100px;
+    background-color: #0aeaae;
+    float: left;
+}
+
+.h{
+    width: 25%;
+    height: 100px;
+    background-color: #ff9100;
+    float: left;
+}
+
+.i{
+    width: 25%;
+    height: 100px;
+    background-color: #77ff00;
+    float: left;
+}
+
+.j{
+    width: 25%;
+    height: 100px;
+    background-color: #fa0658;
+    float: left;
+}
+.k{
+    width: 100%;
+    height: 100px;
+    background-color: #a600ff;
+    clear: both;
+}
